@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ethan James -- Developer -- https://twitter.com/sadan9921
 
 # THANKS
 
-    <name>
+    I'd like to thank the Acadamy, and John Travolta
 
 # TECHNOLOGY COLOPHON
 
