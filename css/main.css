@@ -1,3 +1,13 @@
 :root {
   --background-color: #222225;
+  --font-color: #e8e9ed;
+}
+
+div.container {
+  text-align: center;
+}
+
+ul.services {
+  display: inline-block;
+  text-align: left;
 }
