@@ -1,8 +1,8 @@
-function setTime() {
+function setUnixTime() {
    var time = new Date().getTime();
    $( "time" ).text( "The time is " + time );
 }
 
 var intervalId = window.setInterval(function(){
-    setTime();
+    setUnixTime();
   }, 1000);
