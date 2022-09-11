@@ -12,7 +12,7 @@ ul.services {
   text-align: left;
 }
 
-#header {
+.header {
   display: flex;
   justify-content: center;
   align-items: center;
