@@ -11,3 +11,9 @@ ul.services {
   display: inline-block;
   text-align: left;
 }
+
+#header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
