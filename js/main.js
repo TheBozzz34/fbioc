@@ -4,5 +4,5 @@ function setTime() {
 }
 
 var intervalId = window.setInterval(function(){
-    /// call your function here
+    setTime();
   }, 1000);
